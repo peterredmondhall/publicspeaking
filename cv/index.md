@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Peter Hall, Public Speaker
+title: Peter Hall, Redner
 ---
 
 Speaking events:
