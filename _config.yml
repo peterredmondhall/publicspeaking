@@ -1,3 +1,4 @@
 name: Peter Hall, Public Speaker
 markdown: kramdown
 permalink: /publicspeaking/blog/:year/:month/:day/:title
+theme: jekyll-theme-slate
